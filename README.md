@@ -5,7 +5,7 @@
 
 <div align = "center">
 
-<h3>jinyoung</h3><br/>
+<h3>김 진영</h3><br/>
 
 <h4>Tech Stack</h4>
 React<br/>
