@@ -8,6 +8,10 @@
 <h3>Hi there 👋</h3><br/>
 I'm jinyoung<br/>
 
+<h4>Tech Stack</h4>
+React<br/>
+TypeScript<br/>
+
 </div>
 
 <br/>
