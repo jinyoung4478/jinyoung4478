@@ -5,8 +5,7 @@
 
 <div align = "center">
 
-<h3>Hi there 👋</h3><br/>
-I'm jinyoung<br/>
+<h3>jinyoung</h3><br/>
 
 <h4>Tech Stack</h4>
 React<br/>
