@@ -1,18 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JinYoung's%20Github%20Profile&descAlignY=55&descAlign=62)
-[Nwitter Clone](https://jinyoung4478.github.io/nwitter-clone/)
 <div align = "center">
+  <p>반갑습니다😃</p><br/>
+  <p>프론트엔드를 공부 중인 김진영입니다!</p><br/>
+  <p>1년 6개월 동안 임베디드 SW 및 Django 개발을 하다가</p><br/>
+  <p>프론트엔드에 관심이 생겨 관련 업무를 꿈꾸고 있습니다</p><br/>
+  <br/>
 
-<p>반갑습니다😃</p><br/>
-<p>프론트엔드를 공부 중인 김진영입니다!</p><br/>
-<p>1년 6개월 동안 임베디드 SW 및 Django 개발을 하다가</p><br/>
-<p>프론트엔드에 관심이 생겨 관련 업무를 꿈꾸고 있습니다</p><br/>
-<br/>
-
-<p>자세한 내용은 이곳에 있습니다</p>
-[Nwitter Clone](https://jinyoung4478.github.io/nwitter-clone/)
-<br/>
-<br/>
-<h4>Tech Stack</h4>
+  <p>자세한 내용은 이곳에 있습니다</p>
+  <a href="https://jinyoung4478.github.io/nwitter-clone/">More about me!</a>
+  <br/>
+  <br/>
+  
+  <h4>Tech Stack</h4>
   <h5>❗️Stacks that I'm interested in</h5>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
