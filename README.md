@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JinYoung's%20Github%20Profile&descAlignY=55&descAlign=62)
-
+[Nwitter Clone](https://jinyoung4478.github.io/nwitter-clone/)
 <div align = "center">
 
 <p>반갑습니다😃</p><br/>
@@ -9,7 +9,7 @@
 <br/>
 
 <p>자세한 내용은 이곳에 있습니다</p>
-> [More about me](https://github.com/jinyoung4478).
+[Nwitter Clone](https://jinyoung4478.github.io/nwitter-clone/)
 <br/>
 <br/>
 <h4>Tech Stack</h4>
