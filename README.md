@@ -7,7 +7,7 @@
   <br/>
 
   <p>자세한 내용은 이곳에 있습니다</p>
-  <a href="https://jinyoung4478.github.io/nwitter-clone/">More about me!</a>
+  <a href="#">More about me!</a>
   <br/>
   <br/>
   
