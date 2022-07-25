@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20Jinyoung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Kim%20JinYoung&descAlignY=51&descAlign=62)
 
 <br/>
 <br/>
@@ -39,9 +39,9 @@
 
 <br/>
 <br/>
-
+<!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-
+-->
 <!--
 ref
 https://cocoon1787.tistory.com/689
