@@ -9,7 +9,7 @@
 <br/>
 
 <p>자세한 내용은 이곳에 있습니다</p>
-> [More about me](https://github.com/jinyoung4478)
+> [More about me](https://github.com/jinyoung4478).
 <br/>
 <br/>
 <h4>Tech Stack</h4>
