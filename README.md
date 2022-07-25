@@ -39,8 +39,10 @@
 
 <br/>
 <br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
 <!--
 ref
 https://cocoon1787.tistory.com/689
 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
