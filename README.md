@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Jin%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20Jinyoung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62)
 
 <br/>
 <br/>
