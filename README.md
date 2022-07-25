@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JinYoung's%20Github%20Profile&descAlignY=55&descAlign=62)
 
-<br/>
-<br/>
-
 <div align = "center">
 
-<h3>김 진영</h3><br/>
+<h3>반갑습니다</h3><br/>
+<h3>프론트엔드에 관심있는 김진영입니다!</h3><br/>
+<h3>1년 6개월 정도 임베디드 SW 및 Django 개발 경력이 있습니다.</h3><br/>
+<h3>그러던 중 프론트엔드에 흥미가 생겨 공부하며 관련 업무 구직 중입니다!</h3><br/>
 
 <h4>Tech Stack</h4>
   <h5>❗️Stacks that I'm interested in</h5>
