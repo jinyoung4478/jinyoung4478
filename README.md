@@ -2,11 +2,13 @@
 
 <div align = "center">
 
-<p>반갑습니다</p><br/>
-<p>프론트엔드에 관심있는 김진영입니다!</p><br/>
+<p>반갑습니다😃</p><br/>
+<p>프론트엔드를 공부 중인 김진영입니다!</p><br/>
 <p>1년 6개월 동안 임베디드 SW 및 Django 개발을 하다가</p><br/>
-<p>프론트엔드에 흥미가 생겨 관련 업무를 꿈꾸고 있습니다😃</p><br/>
-
+<p>프론트엔드에 관심이 생겨 관련 업무를 꿈꾸고 있습니다</p><br/>
+<br/>
+<p>자세한 내용은 이곳에 있습니다</p>
+  <a href="#">More about me</a>
 <h4>Tech Stack</h4>
   <h5>❗️Stacks that I'm interested in</h5>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
