@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20there!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JinYoung's%20Github%20Profile&descAlignY=55&descAlign=62)
 <div align = "center">
   <p>반갑습니다 😃</p><br/>
+  <!--
   <p>프론트엔드를 공부 중인 김진영입니다!</p><br/>
   <p>
   1년 6개월 동안 임베디드 SW 및 Django 개발을 하다<br/>프론트엔드에 관심이 생겨 관련 업무를 꿈꾸고 있습니다
   </p>
   <br/>
   <br/>
+  -->
   
   <!--
   <p>자세한 내용은 이곳에 있습니다</p>
