@@ -1,0 +1,35 @@
+name: Update README.md
+
+on:
+  schedule:
+  - cron: "0 */6 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+          node-version: 14
+    - run: npm install
+
+    - name: Generate readme
+      env:
+          API_KEY: ${{ secrets.API_KEY }}
+      run: node main.js
+
+
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v4
+      with:
+          author_name: jinyoung4478
+          author_email: skswls0@daum.net
+          message: "Auto updating README.md"
+          add: "*.svg"
+      env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
