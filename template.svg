@@ -299,9 +299,9 @@
 
   <!-- typing 3 : text -->
   <g transform="translate(10, 155)" class="msg-3">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="410" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">아, 저는 프론트엔드 개발자로 근무 중이며</text>
-    <text x="15" y="50">📈 Data Visualization과 🔌 소켓 통신에 관심이 많아요.</text>
+    <text x="15" y="50">철학과 글쓰기를 좋아하고 창조적인 일에 관심이 많아요.</text>
   </g>
 
   <!-- typing 4 : bubble -->
