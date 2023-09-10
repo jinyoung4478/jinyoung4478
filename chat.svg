@@ -251,7 +251,7 @@
   <!-- typing 1 : text -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="250" height="42" rx="18.0355" />
-    <text x="15" y="27">반갑습니다! 해리케이입니다. 😊</text>
+    <text x="15" y="27">반갑습니다! 김진영입니다. 😊</text>
   </g>
 
   <!-- typing 2 : bubble -->
