@@ -275,7 +275,7 @@
   <g transform="translate(10, 53)" class="msg-2">
     <rect width="438" height="88" rx="18.0355" class="bubble" />
     <text x="15" y="27">저는 서울 선유도역 근처에 살고 있어요.</text>
-    <text x="15" y="50">오늘 기온은 0°C, 날씨는 화창하고 비소식은 없어요 ☀️</text>
+    <text x="15" y="50">오늘 기온은 -1°C, 날씨는 화창하고 비소식은 없어요 ☀️</text>
     <text x="15" y="73">거긴 날씨가 어떤가요?</text>
   </g>
 
@@ -326,7 +326,7 @@
     <rect width="310" height="88" rx="18.0355" class="bubble" />
     <text x="15" y="27">취미로 재미난 것들을 만들어보고 있어요.</text>
     <text x="15" y="50">연락은 좌측 이메일을 참고해주세요.</text>
-    <text x="15" y="73">그럼, 이번 주말 잘 보내세요! 🏝️</text>
+    <text x="15" y="73">그럼, 푹 쉬세... 혹시 내일 출근..? 🤭</text>
   </g>
   
 </svg>
