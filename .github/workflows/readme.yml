@@ -18,7 +18,7 @@ jobs:
               node-version: 14
          - run: npm install
 
-         - name: Generate readme
+         - name: Generate README.md
            env:
               API_KEY: ${{ secrets.API_KEY }}
            run: node main.js
